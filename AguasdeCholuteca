@@ -1,0 +1,43 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aguas de Choluteca</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenidos a Aguas de Choluteca</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Consultas</a></li>
+                <li><a href="#">Nosotros</a></li>
+                <li><a href="#">Servicios</a>
+                    <ul>
+                        <li><a href="#">Suministro de agua potable</a></li>
+                        <li><a href="#">Alcantarillado sanitario</a></li>
+                        <li><a href="#">Manejo de desechos sólidos</a></li>
+                        <li><a href="#">Mantenimiento de infraestructura hídrica</a></li>
+                        <li><a href="#">Asesoría técnica y operativa en saneamiento</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Clientes</a></li>
+                <li><a href="#">Realiza tu Pago</a></li>
+                <li><a href="#">Agencia Virtual</a></li>
+                <li><a href="#">Contáctanos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Servicios de Agua Potable y Saneamiento</h2>
+        <p>Bienvenido a nuestra página web, donde podrás encontrar información sobre nuestros servicios, realizar pagos, y mucho más.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Aguas de Choluteca S.A.</p>
+    </footer>
+</body>
+</html>
